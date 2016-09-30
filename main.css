@@ -1,3 +1,14 @@
-p {
-  color: red;
+
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.card-pic {
+  height: 300px;
+  text-align: center;
+  padding-top: 20px;
 }
