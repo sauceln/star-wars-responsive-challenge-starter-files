@@ -7,8 +7,22 @@ main .row {
   margin-bottom: 20px;
 }
 
+.col-4 {
+  border: 1px solid #DDDDDD;
+}
+
 .card-pic {
   height: 300px;
   text-align: center;
   padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-size: 20px;
 }
