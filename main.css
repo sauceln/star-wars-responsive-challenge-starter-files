@@ -1,6 +1,6 @@
-
-main {
-  padding-top: 100px;
+.col-12 {
+  background-color: orange;
+  margin-bottom: 20px;
 }
 
 main .row {
@@ -20,6 +20,24 @@ main .row {
   font-family: "Roboto", sans-serif;
 }
 
-h1 {
+.card-info h1 {
   font-size: 20px;
+  padding-left: 15px;
+}
+
+p {
+  padding-left: 15px;
+}
+
+.card-info {
+  padding-bottom: 20px;
+}
+
+header p {
+  font-size: 15px;
+  padding-left: 0px;
+}
+
+header h1 {
+  margin-bottom: 0px;
 }
