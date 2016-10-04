@@ -41,3 +41,7 @@ header p {
 header h1 {
   margin-bottom: 0px;
 }
+
+header {
+  padding-left: 10px;
+}
